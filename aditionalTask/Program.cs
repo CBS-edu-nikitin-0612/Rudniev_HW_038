@@ -8,7 +8,7 @@ namespace aditionalTask
         {
             using (new SomeClass())
             {
-                Console.WriteLine("some work...");
+                Console.WriteLine("some work....");
             }
 
             Console.ReadKey();
